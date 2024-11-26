@@ -1,0 +1,2 @@
+cd Forensics
+mkdocs build
